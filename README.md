@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Raj</h1>
 <h3 align="center">Just someone in this infinite abyss 👾✨</h3>
 
 - 🔭 I’m currently working on **Open Source Projects**
@@ -32,3 +32,5 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya201551&show_icons=true&theme=onedark&locale=en" alt="aditya201551" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya201551&" alt="aditya201551" />
+
+![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=aditya201551&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
