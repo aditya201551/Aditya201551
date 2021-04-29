@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aditya201551@gmail.com**
 
-- 📄 Know about my experiences [https://media-exp1.licdn.com/dms/document/C4E2DAQEk-3B1KLTK5w/profile-treasury-document-pdf-analyzed/0/1615366948853?e=1618297200&v=beta&t=ZZlwCvTrx-vgHucV63uyjzk63MgaadNIJxNtc40D3GA](https://media-exp1.licdn.com/dms/document/C4E2DAQEk-3B1KLTK5w/profile-treasury-document-pdf-analyzed/0/1615366948853?e=1618297200&v=beta&t=ZZlwCvTrx-vgHucV63uyjzk63MgaadNIJxNtc40D3GA)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FwoqDKtkXMkn70QILhH8iTO9fgg4-C2e/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny......maybe**
 
