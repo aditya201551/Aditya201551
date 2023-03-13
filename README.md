@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aditya201551@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1t4vDBpSfKHF5KIVcfdTuWAhOvGxVOrdG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17snh2TL-0q9IM1p6eXN3HjsddLZFDxJw/view?usp=sharing)
 
 
 <hr>
