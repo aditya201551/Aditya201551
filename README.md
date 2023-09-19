@@ -1,3 +1,4 @@
+![Cover Image](https://i.stack.imgur.com/wCvnX.png)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Raj</h1>
 <h3 align="center">Just someone in this infinite abyss 👾✨</h3>
 
