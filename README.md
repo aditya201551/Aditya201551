@@ -1,4 +1,4 @@
-![Cover Image](https://wallpaperaccess.com/full/2825704.gif)
+![Cover Image](https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Raj</h1>
 <h3 align="center">Just someone in this infinite abyss 👾✨</h3>
 
