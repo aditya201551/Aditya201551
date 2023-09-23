@@ -6,15 +6,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=VT323&family=consolas">
-<style>
-body {
-font-family: 'VT323','consolas', monospace;
-}
-</style>
+<link rel="stylesheet" href="https://drive.google.com/uc?id=1MggFp67Mcqfr_OEYvpBsh2PzI31FfeDE">
 </head>
 <body>
 
-<h1 align="center">Hi There, It's Aditya</h1>
+<h1 align="center" class="font-apply">Hi There, It's Aditya</h1>
 <h3 align="center">Just someone in this infinite abyss 👾✨</h3>
 
 </body>
