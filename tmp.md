@@ -1,3 +1,5 @@
+![Header Image](https://i.imgur.com/qMV6ga5.gif)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
