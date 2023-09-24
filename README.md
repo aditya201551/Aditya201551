@@ -24,21 +24,7 @@
 
 ### **🔗CONNECT**
 
-<span style='display:flex'>
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya201551/?tab=follow)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-raaj/)
-
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/crispywrecker)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya250621@gmaail.com)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/CrispyWrecker?style=social)](https://twitter.com/intent/follow?screen_name=CrispyWrecker)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_crispywrecker_/)
-
-</span>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya201551/?tab=follow) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-raaj/) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/crispywrecker) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya250621@gmaail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/CrispyWrecker?style=social)](https://twitter.com/intent/follow?screen_name=CrispyWrecker) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_crispywrecker_/)
 
 ### 📟MY TECH STACK
 
