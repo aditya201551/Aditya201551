@@ -56,7 +56,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
 
-#### Tools
+#### TECH & TOOLS
 
 ![Graphql](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Graphql](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
@@ -71,6 +71,5 @@
 
 #### GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya201551&show_icons=true&theme=onedark&locale=en&layout=compact" alt="aditya201551" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya201551&" alt="aditya201551" />
 <img  src="https://github-readme-stats.vercel.app/api?username=aditya201551&show_icons=true&theme=onedark&locale=en" alt="aditya201551" />
