@@ -1,10 +1,10 @@
 ![Header Image](https://i.imgur.com/qMV6ga5.gif)
 
-<h1  align="center">8-bit dreams in a 16K world. 🕹️💡</h1>
+<h1  align="center">8-bit dreams in a 16K world. 🕹️</h1>
 
 ### **👾ABOUT ME**
 
-⭐Hello World! I am [Aditya](https://www.linkedin.com/in/aaditya-raaj/), Senior Software Engineer(backend) @[FYERS](https://www.fyers.in/).
+⭐Hello World! I am [Aditya](https://www.linkedin.com/in/aaditya-raaj/), Senior Software Engineer @[FYERS](https://www.fyers.in/).
 
 ⭐I love building impactful products and better cloud environment.
 
@@ -25,10 +25,15 @@
 ### **🔗CONNECT**
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya201551/?tab=follow)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-raaj/)
+
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/crispywrecker)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya250621@gmaail.com)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/CrispyWrecker?style=social)](https://twitter.com/intent/follow?screen_name=CrispyWrecker)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_crispywrecker_/)
 
 ### 📟MY TECH STACK
@@ -36,40 +41,57 @@
 #### LANGUAGE
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### FRAMEWORK
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 #### DATABASE
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF.svg?style=for-the-badge&logo=Amazon-Redshift&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
 
 #### TECH & TOOLS
 
 ![Graphql](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
+
 ![Graphql](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
+
 ![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=Sentry&logoColor=white)
 
 #### CLOUD
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
 
 #### GITHUB STATS
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya201551&" alt="aditya201551" />
-<img  src="https://github-readme-stats.vercel.app/api?username=aditya201551&show_icons=true&theme=onedark&locale=en" alt="aditya201551" />
+<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=aditya201551&"  alt="aditya201551"  />
+
+<img  src="https://github-readme-stats.vercel.app/api?username=aditya201551&show_icons=true&theme=onedark&locale=en"  alt="aditya201551"  />
