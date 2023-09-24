@@ -24,7 +24,7 @@
 
 ### **🔗CONNECT**
 
-<p>
+<span style='display:flex'>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya201551/?tab=follow)
 
@@ -38,7 +38,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_crispywrecker_/)
 
-</p>
+</span>
 
 ### 📟MY TECH STACK
 
