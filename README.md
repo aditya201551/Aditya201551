@@ -6,9 +6,9 @@
 
 ⭐Hello World! I am [Aditya](https://www.linkedin.com/in/aaditya-raaj/), Senior Software Engineer @[FYERS](https://www.fyers.in/).
 
-⭐I love building impactful products and better cloud environment.
+⭐I love building impactful products and better cloud environments.
 
-⭐[Resume](https://drive.google.com/file/d/1B0Rez0LlRkA70DfSm_4n6fHnA02YGHSJ/view?usp=sharing)
+⭐<a href="https://drive.google.com/file/d/1B0Rez0LlRkA70DfSm_4n6fHnA02YGHSJ/view?usp=sharing" target="_blank">Resume</a>
 
 <p>
 
