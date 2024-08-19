@@ -8,7 +8,7 @@
 
 ⭐I love building impactful products and better cloud environments.
 
-⭐<a href="https://drive.google.com/file/d/1QIAe0GjrWmuCSOKsjwTN9ocDAQeu0bOZ/view?usp=sharing" target="_blank">Resume</a>
+⭐<a href="https://drive.google.com/file/d/1rwPjkeg_zn7akv-CYeGadlVloxlqop7-/view?usp=sharing" target="_blank">Resume</a>
 
 <p>
 
